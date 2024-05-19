@@ -1,2 +1,2 @@
 # bro_pls_not_dc
-App that shows how busy study spots are on the UW Campus
+Occupancy map app of study spots on the UW Campus
